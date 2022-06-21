@@ -7,7 +7,7 @@ google-cloud-vision==0.37.0
 googleapis-common-protos==1.6.0
 grpcio==1.21.1
 idna==2.8
-numpy==1.16.4
+numpy==1.22.0
 opencv-python==4.1.0.25
 Pillow==6.0.0
 protobuf==3.8.0
